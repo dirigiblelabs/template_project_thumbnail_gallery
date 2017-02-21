@@ -1,1 +1,8 @@
-{"guid":"template_project_thumbnail_gallery","repository":{"type":"git","branch":"master","url":"https://github.com/dirigiblelabs/template_project_thumbnail_gallery.git"}}
+{
+    "guid":"template_project_thumbnail_gallery",
+    "repository":{
+        "type":"git",
+        "branch":"master",
+        "url":"https://github.com/dirigiblelabs/template_project_thumbnail_gallery.git"
+    }
+}
